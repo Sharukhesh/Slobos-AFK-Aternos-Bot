@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "XO-SMPV2.aternos.me:61821",
+    "ip": "XO-SMPV2.aternos.me",
     "port": 61821,
     "version": "1.21.11",
     "try-creative": false
